@@ -1,0 +1,31 @@
+﻿  AendernForm.cpp
+AendernForm.cpp(92): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: Siehe Deklaration von "strcpy"
+AendernForm.cpp(93): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: Siehe Deklaration von "strcpy"
+  DateiHaendling.cpp
+  EingebenForm.cpp
+EingebenForm.cpp(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: Siehe Deklaration von "strcpy"
+EingebenForm.cpp(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: Siehe Deklaration von "strcpy"
+  lernenForm.cpp
+lernenForm.cpp(17): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+lernenForm.cpp(19): warning C4101: "eingabe": Unreferenzierte lokale Variable
+lernenForm.cpp(54): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+lernenForm.cpp(56): warning C4101: "eingabe": Unreferenzierte lokale Variable
+  MainForm.cpp
+  Schnittstelle.cpp
+  StartP10.cpp
+  anzeigenForm.cpp
+  VokabelTrainer.cpp
+  Code wird generiert...
+d:\04.07.2018\uni\rest\programmieren\programmieren_2\p10\anzeigenform.cpp(14): warning C4700: Die nicht initialisierte lokale Variable "vokabeln" wurde verwendet.
+d:\04.07.2018\uni\rest\programmieren\programmieren_2\p10\schnittstelle.cpp(32): warning C4700: Die nicht initialisierte lokale Variable "vokabel_array" wurde verwendet.
+d:\04.07.2018\uni\rest\programmieren\programmieren_2\p10\schnittstelle.cpp(41): warning C4700: Die nicht initialisierte lokale Variable "vokabeln" wurde verwendet.
+d:\04.07.2018\uni\rest\programmieren\programmieren_2\p10\aendernform.cpp(15): warning C4700: Die nicht initialisierte lokale Variable "vokabeln" wurde verwendet.
+d:\04.07.2018\uni\rest\programmieren\programmieren_2\p10\aendernform.cpp(108): warning C4700: Die nicht initialisierte lokale Variable "vokabeln" wurde verwendet.
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AendernForm.obj : /DEBUG:FASTLINK wird nicht unterstützt, wenn verwalteter Code vorhanden ist; Link wird mit /DEBUG:FULL neu gestartet
+  P10.vcxproj -> D:\04.07.2018\Uni\Rest\Programmieren\Programmieren_2\P10\Debug\P10.exe
+  P10.vcxproj -> D:\04.07.2018\Uni\Rest\Programmieren\Programmieren_2\P10\Debug\P10.pdb (Partial PDB)
